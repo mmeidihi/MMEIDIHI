@@ -12,7 +12,7 @@ if __name__ == '__main__' :
   main()
 
 def main() : 
-  st.header('Halaman Streamlit Alif')
+  st.header('Halaman Streamlit Muh. Meidi H.I.')
   st.subheader('This is SubHeader')
   st.markdown('# Rendering Markdown ')
   st.write('Some Phytagorean Equation : ')
