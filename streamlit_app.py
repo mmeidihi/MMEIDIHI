@@ -6,12 +6,6 @@ import pandas as pd
 house = pd.read_csv('house_clean.csv')
 
 def main() : 
-  st.write('Minimal Example')
-
-if __name__ == '__main__' : 
-  main()
-
-def main() : 
   st.header('Halaman Streamlit Muh. Meidi H.I.')
   st.subheader('This is SubHeader')
   st.markdown('# Rendering Markdown ')
